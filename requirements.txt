@@ -1,0 +1,5 @@
+adhawk-ble
+pyqt5
+opencv-python
+PyQt5
+roboflow
